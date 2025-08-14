@@ -34,9 +34,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&layout=compact&hide=html,css,scss,blade&hide_title=true&card_width=300)  
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true&hide_total_contributions=false)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xavierzaidane)](https://git.io/streak-stats)
 
 ---
 > *"Turning coffee into code and ideas into reality."*
