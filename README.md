@@ -21,16 +21,13 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/xavierzdn/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram-original.svg" height="40" alt="Instagram" />
+     <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Instagram_logo_2022.svg/600px-Instagram_logo_2022.svg.png"
+    height="40"
+    alt="Instagram"
+  />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:xavierzaidane@example.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail-original.svg" height="40" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/xavierzaidane" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  </a>
 </p>
 
 ---
