@@ -21,12 +21,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/xavierzdn/" target="_blank">
-  <img 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" 
-    height="40" 
-    alt="Instagram" 
-    style="fill:#E4405F;" 
-  />
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="40" alt="Instagram" />
 </a>
   &nbsp;&nbsp;
 </p>
