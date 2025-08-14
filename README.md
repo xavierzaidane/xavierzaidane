@@ -21,12 +21,13 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/xavierzdn/" target="_blank">
-     <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Instagram_logo_2022.svg/600px-Instagram_logo_2022.svg.png"
-    height="40"
-    alt="Instagram"
+  <img 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" 
+    height="40" 
+    alt="Instagram" 
+    style="fill:#E4405F;" 
   />
-  </a>
+</a>
   &nbsp;&nbsp;
 </p>
 
