@@ -4,15 +4,18 @@
 ---
 
 💡 **About Me**
-- 🎓 Undergraduate Student in **Software Engineering**  
-- 🌱 Currently exploring **Generative AI**, **React**, and **Laravel**  
-- 🚀 Passionate about building **Full-Stack Applications** & **AI-Powered Tools**  
+- 🎓 Undergraduate Student in **Software Engineering**
+  
+- 🌱 Currently exploring **Generative AI**, **React**, and **Laravel**
+  
+- 🚀 Passionate about building **Full-Stack Applications** & **AI-Powered Tools**
+  
 - ⚡ Fun fact: I love creating AI agents that *actually* work
 
 ---
 
 ### 🌐 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/xavier-zaidane-a-5748b128a/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="https://www.instagram.com/xavierzdn/"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
 </p>
