@@ -30,4 +30,6 @@
 ---
 
 ### 📊 GitHub Stats
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xavierzaidane)](https://git.io/streak-stats)
+</p>
