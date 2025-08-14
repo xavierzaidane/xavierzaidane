@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xavier Zaidane</h1>
-<h3 align="center">Full-Stack Engineer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">A passionate Full-Stack Engineer & AI Enthusiast from Indonesia</h3>
 
 ---
 
