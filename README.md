@@ -30,5 +30,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xavierzaidane)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact)](https://github.com/xavierzaidane/github-readme-stats)
 
----
-> *"Turning coffee into code and ideas into reality."*
+
+
