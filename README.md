@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Xavier Zaidane</h1>
 <h3 align="center">A passionate Full-Stack Engineer & AI Enthusiast from Indonesia</h3>
 
-- 🎓 I'm an undergraduate student in **Software Engineering**  
-- 🌱 Currently learning **Generative AI, React, and Laravel**  
-- 🚀 Love building **full-stack applications** & **AI-powered tools**  
+- 🎓 I'm an undergraduate student in **Software Engineering**
+   
+- 🌱 Currently learning **Generative AI, React, and Laravel**
+  
+- 🚀 Love building **full-stack applications** & **AI-powered tools**
+  
 - ⚡ Fun fact: I enjoy creating AI agents that actually work
 
 ---
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/xavier-zaidane-a-5748b128a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B67ydCQIjQW2ge7FS1VqJFw%3D%3D)) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourinstagram](https://www.instagram.com/xavierzdn?igsh=ZXlqYzEzaGxpZWpn&utm_source=qr))  
 
 ---
 
