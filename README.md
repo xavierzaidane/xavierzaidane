@@ -15,9 +15,22 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/xavier-zaidane-a-5748b128a/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://www.instagram.com/xavierzdn/"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/xavier-zaidane-a-5748b128a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/xavierzdn/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2025.svg" height="40" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:xavierzaidane@example.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" height="40" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/xavierzaidane" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  </a>
 </p>
 
 ---
