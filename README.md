@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/xavierzdn/)
 
 ### 🛠 Languages and Tools:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nextjs,react,laravel,react,mongodb,postman,express,mysql,nodejs,postgres,prisma,vercel" />
   </a>
