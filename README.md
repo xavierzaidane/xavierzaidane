@@ -31,5 +31,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xavierzaidane)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=xavierzaidane&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierzaidane&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
