@@ -24,8 +24,7 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,laravel,tailwind,express,prisma,convex" height="40" />
-  <img src="https://skillicons.dev/icons?i=java,git,mongodb,mysql,postgres,postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,laravel,tailwind,express,prisma,java,git,mongodb,mysql,postgres,postman" height="40" />
 </p>
 
 ---
