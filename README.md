@@ -35,7 +35,7 @@
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide=html,css,scss&layout=compact&card_width=250)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)
 
 ---
