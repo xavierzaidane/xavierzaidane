@@ -6,7 +6,7 @@
 💡 **About Me**
 - 🎓 Undergraduate Student in **Software Engineering**
   
-- 🌱 Currently exploring **Generative AI**, **React**, and **Laravel**
+- 🌱 Currently exploring **Generative AI**, **React**, and **Javascript**
   
 - 🚀 Passionate about building **Full-Stack Applications** & **AI-Powered Tools**
   
