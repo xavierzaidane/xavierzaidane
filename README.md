@@ -32,6 +32,6 @@ Design that feels intentional: I care about micro‑interactions, layout, contra
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me:
 
-* **LinkedIn:** [LinkedIn Profile]([https://www.linkedin.com/in/phalla-doll-60563a1b9/](https://www.linkedin.com/in/xavier-zaidane/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuwGDDSGlQLaUN6SQAaQsig%3D%3D))
+* **LinkedIn:** [LinkedIn Profile]([linkedin.com/in/xavier-zaidane])
 
 Thank you for visiting ! 😊
