@@ -4,7 +4,7 @@
 
 I design and build fast, AI‑driven products for the web.
 
-I’m Xavier, a Computer Science undergraduate and frontend-focused full stack developer based in Malang, Indonesia. i work in building responsive interfaces powered by modern frameworks and AI systems — turning complex ideas into intuitive, high-performance products.
+I’m Xavier, a Computer Science undergraduate and frontend-focused full stack developer based in Malang, Indonesia (currently in China). i work in building responsive interfaces powered by modern frameworks and AI systems — turning complex ideas into intuitive, high-performance products.
 
 Over the last 1+ years, I’ve shipped dashboards, editors, booking tools, and experiences used by real users, teams, and businesses. 
 
