@@ -1,52 +1,35 @@
-<h1 align="center">Hi 👋, I'm Xavier Zaidane Athaya</h1>
-<h3 align="center">A passionate Frontend Developer & AI Enthusiast from Indonesia</h3>
+# Xavier — Software Developer (Frontend Enthusiast)
 
----
+I design and build fast, AI‑driven products for the web.
 
-💡 **About Me**
-- 🎓 Undergraduate Student in **Software Engineering**
-  
-- 🌱 Currently exploring **Generative AI**, **React**, and **Javascript**
-  
-- 🚀 Passionate about building **Full-Stack Applications** & **AI-Powered Tools**
-  
-- ⚡ Fun fact: I love creating AI agents that *actually* work
+I’m Xavier, a Computer Science undergraduate and frontend-focused full stack developer based in Malang, Indonesia. i work in building responsive interfaces powered by modern frameworks and AI systems — turning complex ideas into intuitive, high-performance products.
 
----
+Over the last 1+ years, I’ve shipped dashboards, editors, booking tools, and 3D experiences used by real users, teams, and businesses. This portfolio is a collection of those experiments and products.
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/xavier-zaidane-a-5748b128a/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/xavierzdn/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="40" alt="Instagram" />
-</a>
-  &nbsp;&nbsp;
-</p>
 
----
+## What I do
 
-### 🛠 Tech Stack
+AI that works in the UI: I build AI features that live directly in the UI — from RAG-based chatbots to LLM-powered recommendation systems. My work includes designing multi-stage pipelines, optimizing latency (up to 40% faster), and delivering responsive AI experiences that feel seamless to users.
+
+Modern frontend, production-ready: I ship with Next.js, React, Vue, and TypeScript, integrating real data (Supabase, APIs, WebSockets) and real infra (Vercel, Cloudflare, Docker) — not just static prototypes.
+
+Design that feels intentional: I care about micro‑interactions, layout, contrast, and motion. The goal is always the same: interfaces that feel obvious to use, even when the product behind them is complex.
+
+## Stats
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=xavierzaidane&theme=whatsapp-dark2&border_radius=7"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
----
 
-### 📊 GitHub Stats
-<p align="center"> <a href="https://github.com/xavierzaidane"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=xavierzaidane&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="165" /> </a> <a href="https://github.com/xavierzaidane"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierzaidane&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3" alt="Top Languages" height="165" /> </a> </p> <p align="center">  </p>
+## Get in Touch 📬
+
+I'm always open to new opportunities and collaborations. Feel free to reach out to me:
+
+* **LinkedIn:** [LinkedIn Profile]([https://www.linkedin.com/in/phalla-doll-60563a1b9/](https://www.linkedin.com/in/xavier-zaidane/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuwGDDSGlQLaUN6SQAaQsig%3D%3D))
+
+Thank you for visiting ! 😊
