@@ -32,6 +32,6 @@ Design that feels intentional: I care about micro‑interactions, layout, contra
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me:
 
-* **Email:** [Email me]([mailto:xavier@email.com)])
+* **Email:** [Email me]([mailto:xavier@email.com])
 
 Thank you for visiting ! 😊
