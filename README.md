@@ -1,3 +1,5 @@
+![Xavier Portfolio Preview](./portofolio.jpg)
+
 # Xavier — Software Developer (Frontend Enthusiast)
 
 I design and build fast, AI‑driven products for the web.
