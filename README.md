@@ -21,7 +21,7 @@ Design that feels intentional: I care about micro‑interactions, layout, contra
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=xavierzaidane&theme=whatsapp-dark2&border_radius=7"
+      src="https://github-readme-streak-stats.herokuapp.com?user=xavierzaidane&theme=black-ice&border_radius=7"
       alt="GitHub Streak"
     />
   </a>
