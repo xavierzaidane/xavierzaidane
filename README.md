@@ -13,7 +13,7 @@ Over the last 1+ years, I’ve shipped dashboards, editors, booking tools, and e
 
 AI that works in the UI: I build AI features that live directly in the UI — from RAG-based chatbots to LLM-powered recommendation systems. My work includes designing multi-stage pipelines, optimizing latency, and delivering responsive AI experiences that feel seamless to users.
 
-Modern frontend, production-ready: I ship with Next.js, React, Vue, and TypeScript, integrating real data (Supabase, APIs, WebSockets) and real infra (Vercel, Cloudflare, Docker) — not just static prototypes.
+Modern frontend, production-ready: I ship with Next.js, React, and TypeScript, integrating real data (Supabase, APIs, WebSockets) and real infra (Vercel, Cloudflare, Docker) — not just static prototypes.
 
 Design that feels intentional: I care about micro‑interactions, layout, contrast, and motion. The goal is always the same: interfaces that feel obvious to use, even when the product behind them is complex.
 
