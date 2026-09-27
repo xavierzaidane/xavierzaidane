@@ -1,4 +1,4 @@
-# Xavier — Software Developer (Frontend Enthusiast)
+# Xavier — Software Developer 
 
 I design and build fast, AI‑driven products for the web.
 
