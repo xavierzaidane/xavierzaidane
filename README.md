@@ -25,5 +25,7 @@ I'm "building" something based on my daily activity as a student in China
 I'm always open to new opportunities and collaborations. Feel free to reach out to me:
 
 * **Email:** [Email me](mailto:xavier@email.com)
+* **LinkedIn:** [Connect](https://www.linkedin.com/in/xavier-zaidane/)
+* **Portofolio:** [Click Me](https://www.xavierzdn.dev/)
 
 Thank you for visiting! 😊
