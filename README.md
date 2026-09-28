@@ -1,19 +1,13 @@
 # Xavier — Software Developer 
 
-I design and build fast, AI‑driven products for the web.
+I am Xavier Zaidane Athaya, Undergraduate who also a Fullstack Developer and Agentic Workflow Engineer with a passion for building.
 
-I’m Xavier, a Computer Science undergraduate and frontend-focused full stack developer based in Malang, Indonesia (currently in China). i work in building responsive interfaces powered by modern frameworks and AI systems — turning complex ideas into intuitive, high-performance products.
-
-Over the last 1+ years, I’ve shipped dashboards, editors, booking tools, and experiences used by real users, teams, and businesses. 
+Over the last 2+ years, I’ve shipped projects that used by real users, teams, and businesses. 
 
 
 ## What I do
 
-AI that works in the UI: I build AI features that live directly in the UI — from RAG-based chatbots to LLM-powered recommendation systems. My work includes designing multi-stage pipelines, optimizing latency, and delivering responsive AI experiences that feel seamless to users.
-
-Modern frontend, production-ready: I ship with Next.js, React, and TypeScript, integrating real data (Supabase, APIs, WebSockets) and real infra (Vercel, Cloudflare, Docker) — not just static prototypes.
-
-Design that feels intentional: I care about micro‑interactions, layout, contrast, and motion. The goal is always the same: interfaces that feel obvious to use, even when the product behind them is complex.
+I'm "building" something based on my daily activity as a student in China
 
 ## Stats
 <p align="center">
